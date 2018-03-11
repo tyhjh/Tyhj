@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/inithead.jpg",
+        "source": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/res/drawable-hdpi/inithead.jpg"
+    },
+    {
+        "merged": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/initheadimage4.jpg",
+        "source": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/res/drawable-hdpi/initheadimage4.jpg"
+    },
+    {
+        "merged": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/headinit.jpg",
+        "source": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/res/drawable-hdpi/headinit.jpg"
+    },
+    {
+        "merged": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/initheadimage3.jpg",
+        "source": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/res/drawable-hdpi/initheadimage3.jpg"
+    },
+    {
+        "merged": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/headtest.jpg",
+        "source": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/res/drawable-hdpi/headtest.jpg"
+    },
+    {
+        "merged": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/validation.jpg",
+        "source": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/res/drawable-hdpi/validation.jpg"
+    },
+    {
+        "merged": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bground.jpg",
+        "source": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/res/drawable-hdpi/bground.jpg"
+    },
+    {
+        "merged": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/initheadimage5.jpg",
+        "source": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/res/drawable-hdpi/initheadimage5.jpg"
+    }
+]

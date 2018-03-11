@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/res/merged/debug/drawable-ldpi/centerup.png",
+        "source": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/res/drawable-ldpi/centerup.png"
+    },
+    {
+        "merged": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/res/merged/debug/drawable-ldpi/addphoto.png",
+        "source": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/res/drawable-ldpi/addphoto.png"
+    },
+    {
+        "merged": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/res/merged/debug/drawable-ldpi/iconchatup.png",
+        "source": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/res/drawable-ldpi/iconchatup.png"
+    },
+    {
+        "merged": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/res/merged/debug/drawable-ldpi/iconchatdown.png",
+        "source": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/res/drawable-ldpi/iconchatdown.png"
+    },
+    {
+        "merged": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/res/merged/debug/drawable-ldpi/centerdown.png",
+        "source": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/res/drawable-ldpi/centerdown.png"
+    },
+    {
+        "merged": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/res/merged/debug/drawable-ldpi/personalup.png",
+        "source": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/res/drawable-ldpi/personalup.png"
+    },
+    {
+        "merged": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/res/merged/debug/drawable-ldpi/add.png",
+        "source": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/res/drawable-ldpi/add.png"
+    },
+    {
+        "merged": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/res/merged/debug/drawable-ldpi/delete.png",
+        "source": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/res/drawable-ldpi/delete.png"
+    },
+    {
+        "merged": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/res/merged/debug/drawable-ldpi/personaldown.png",
+        "source": "/Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/res/drawable-ldpi/personaldown.png"
+    }
+]

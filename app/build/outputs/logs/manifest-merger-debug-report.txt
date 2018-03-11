@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:10:2-64
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:10:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:11:2-76
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:11:19-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:12:2-77
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:12:19-75
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:13:2-63
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:13:19-60
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:14:5-83
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:14:22-81
+application
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:15:5-90:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:17:9-38
+	android:theme
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:20:9-40
+service#com.avos.avoscloud.PushService
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:21:9-66
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:21:18-63
+receiver#com.avos.avoscloud.AVBroadcastReceiver
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:22:9-27:20
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:22:19-72
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:24:17-79
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:24:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:25:25-74
+activity#com.example.tyhj.MainActivity
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:28:9-37:20
+	android:label
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:31:13-45
+	android:launchMode
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:30:15-46
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:29:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:35:27-74
+activity#com.example.tyhj.Validation
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:38:9-41:20
+	android:launchMode
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:39:14-45
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:40:13-39
+activity#com.example.tyhj.MainFace
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:42:10-45:20
+	android:launchMode
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:43:14-45
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:44:13-37
+activity#com.example.tyhj.Publish
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:46:11-49:20
+	android:launchMode
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:47:14-45
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:48:13-36
+activity#com.example.tyhj.MyEssay
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:50:12-53:20
+	android:launchMode
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:51:14-45
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:52:13-36
+activity#com.example.tyhj.MyPhoto
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:54:9-57:20
+	android:launchMode
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:55:14-45
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:56:13-36
+activity#com.example.tyhj.MyCollcet
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:58:11-61:20
+	android:launchMode
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:59:14-45
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:60:13-38
+activity#com.example.tyhj.MyLeftNote
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:62:10-65:20
+	android:launchMode
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:63:14-45
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:64:13-39
+activity#com.example.tyhj.Visit
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:66:11-69:20
+	android:launchMode
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:67:14-45
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:68:13-34
+activity#com.example.getsome.VmyEssay
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:70:10-73:20
+	android:launchMode
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:71:14-45
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:72:13-56
+activity#com.example.getsome.VMyCollect
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:74:10-77:20
+	android:launchMode
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:75:14-45
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:76:13-58
+activity#com.example.getsome.VMessage
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:78:10-81:20
+	android:launchMode
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:79:14-45
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:80:13-56
+activity#com.example.getsome.VMyLeftNote
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:82:10-85:20
+	android:launchMode
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:83:14-45
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:84:13-59
+activity#com.example.tyhj.MyChat
+ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:86:9-89:20
+	android:launchMode
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:87:13-44
+	android:name
+		ADDED from /Users/Tyhj/AndroidStudioProjects/Tyhj1/app/src/main/AndroidManifest.xml:88:13-35
